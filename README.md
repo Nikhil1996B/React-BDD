@@ -1,4 +1,4 @@
-# BDD in JavaScript: Getting Started with Cucumber and Gherkin
+# React BDD: Getting Started with Cucumber and Gherkin
 
 This repository exists as a set of example implementations of Cucumber.js functionality.  
 Article URL: https://www.sitepoint.com/bdd-in-javascript-cucumber-gherkin
