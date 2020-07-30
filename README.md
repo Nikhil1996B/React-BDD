@@ -3,17 +3,6 @@
 This repository exists as a set of example implementations of Cucumber.js functionality.  
 Article URL: https://www.sitepoint.com/bdd-in-javascript-cucumber-gherkin
 
-## Examples
-
-This repository has the following set of examples:
-
-* simple - A very simple example that does nothing special
-* background - Identical to the 'simple' example in terms of Javascript, but using a Background for common initialisation
-* outline - Identical to the 'simple' example in terms of Javascript, but using a Scenario Outline to generate Scenarios
-* datatable - Adaptation of the 'simple' example to use a Data Table to add an arbitrary list of numbers
-* hooks - Demonstration of a Before hook for resetting data
-* events - Demonstration of event handling for the lifecycle of running tests
-* world - Demonstration of the World concept for data sharing
 
 ## Running examples
 
@@ -22,6 +11,9 @@ The examples are all set up to run with either npm Scripts, Grunt or Gulp. They 
 * npm run-script <example>
 * grunt shell:<example>
 * gulp <example>
+
+## Running Application:
+npm run signintooutlook
 
 ## License
 
